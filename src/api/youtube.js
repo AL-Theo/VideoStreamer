@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 
-const KEY = "AIzaSyDfXCLTpRb0rp2DeOVPRPzf4LMSPngyuh0";
+const KEY = "YoGOOGLEapiKeyhomies";
 
 
 export default axios.create({
